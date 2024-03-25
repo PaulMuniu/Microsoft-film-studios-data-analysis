@@ -20,7 +20,7 @@ Microsoft wants to understand the following:
 - Analyze the correlation between production budget and gross revenue.
 
 ## Data Understanding
-We gathered data from various sources, including Box Office Mojo, IMDb, and The Movie Database (TMDb). 
+We gathered data from various sources, including Box Office Mojo, IMDb, The Numbers and The Movie Database (TMDb). 
 In the folder `zippedData` are movie datasets from:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
@@ -35,24 +35,24 @@ We performed data cleaning, which involved handling missing values, removing dup
 ## Exploratory Data Analysis (EDA)
 ### Genre Analysis
 We investigated the distribution of movie genres and their performance metrics using bar charts.
-![pic1](pic1.png)
+![pic1](pics/pic1.png)
 
 ### Runtime Analysis
 We explored the distribution of movie runtimes using box plots to understand their impact on audience engagement.
-![pic2](pic2.png)
+![pic2](pics/pic2.png)
 
 ### Vote Ratings and Popularity
 We examined the distribution of vote ratings using histogram to gauge audience satisfaction.
-![pic3](pic3.png)
+![pic3](pics/pic3.png)
 
 ### Release Month and Popularity Analysis
 We analyzed the relationship between release month and movie popularity using a bar chart to identify potential trends.
-![pic4](pic4.png)
+![pic4](pics/pic4.png)
 
 ### Budget and Gross Revenue Analysis
 We investigated the correlation between production budget and domestic gross, as well as worldwide gross, using scatter plots to understand profitability.
-![pic5](pic5.png)
-![pic6](pic6.png)
+![pic5](pics/pic5.png)
+![pic6](pics/pic6.png)
 
 ## Conclusion.
 Based on our analysis, we found that:
