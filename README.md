@@ -1,4 +1,4 @@
-# PHASE 1 PROJECT : Microsoft Film Studios Data Analysis Project
+# PHASE 1 PROJECT : Microsoft Film Studios Data Analysis Project.
 
 ## Introduction
 Welcome to the Microsoft Film Studios Data Analysis project. In this project, we explore various aspects of the film industry using data analysis techniques. Our goal is to provide insights and recommendations to `Microsoft` as they venture into the film production business.
@@ -52,7 +52,7 @@ We analyzed the relationship between release month and movie popularity using a 
 ### Budget and Gross Revenue Analysis
 We investigated the correlation between production budget and domestic gross, as well as worldwide gross, using scatter plots to understand profitability.
 ![pic5](pic5.png)
-![pic5](pic5.png)
+![pic6](pic6.png)
 
 ## Conclusion.
 Based on our analysis, we found that:
@@ -82,5 +82,5 @@ As Microsoft's new studios embark on their journey into the film industry, data-
 By implementing these recommendations and leveraging data-driven insights, Microsoft's new studios can navigate the complexities of the film industry landscape with confidence, creativity, and strategic foresight. With a better understanding of audience preferences, genre trends, runtime dynamics, and the impact of production budgets on revenue, Microsoft can make informed decisions at every stage of the filmmaking process. This data-driven approach will not only enhance the quality of their productions but also optimize their marketing strategies, maximize audience engagement, and ultimately drive success in the highly competitive entertainment market.
 
 ## Acknowledgments
-- Credit to data sources (e.g., IMDb, TMDb, Box Office Mojo, TN).
-- Plus libraries and frameworks used (e.g., Pandas, Matplotlib, Seaborn).
+- Credit to data sources (IMDb, TMDb, Box Office Mojo, TN).
+- Plus libraries and frameworks used (e.g. Numpy, Pandas, Matplotlib, Seaborn).
